@@ -3,8 +3,18 @@ Welcome, new coder.
 Enter your code on line 7 to print 'Hello, World!' 
 to the console (the panel on the right)
 */
+console.log(typeof "Hello, World!");
+console.log(Number("2345"));
 
-console.log("Hello");
+let message = "Hello, World!";
+console.log(message);
+let sum = 1 + 2;
+console.log(sum);
+
+
+
+   
+
 
 /*  
 Next, PLAY! 
